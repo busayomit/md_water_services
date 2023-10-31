@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Maji Ndogo Water Analysis project, where we embark on a comprehensive exploration of water data in the fictional community of Maji Ndogo. This project leverages the robust capabilities of SQL to unravel insights from the intricate web of data tables.
+Welcome to the Maji Ndogo Water Analysis project, where we embark on a comprehensive exploration of water data in the fictional community of Maji Ndogo. This project leverages the robust capabilities of SQL to unravel insights from the intricate web of data tables. The goal? To uncover the solutions to Maji Ndogo's water crisis.
 
 ## Objectives
 
